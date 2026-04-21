@@ -7,10 +7,10 @@
 
 ## 📦 Installation
 
-This SDK requires the `@fundx-grid/stacks-core` utility package.
+This SDK requires the `@fundxgrid/stacks-core` utility package.
 
 ```bash
-npm install @fundxagon/sdk @fundx-grid/stacks-core
+npm install @fundxagon/sdk @fundxgrid/stacks-core
 ```
 
 ## 🚀 Quick Start
