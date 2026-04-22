@@ -1,6 +1,9 @@
 {
   "name": "@fundxagon/sdk",
   "version": "1.0.2",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "description": "Production-grade SDK for FundX Protocol. Provides core bindings for decentralized fundraising, escrow campaigns, and milestone-based payouts on Stacks.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
