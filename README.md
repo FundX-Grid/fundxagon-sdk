@@ -1,6 +1,7 @@
 # @fundxagon/sdk
 
-[![npm version](https://img.shields.io/npm/v/@fundxagon/sdk.svg)](https://www.npmjs.com/package/@fundxagon/sdk)
+[![npm downloads](https://img.shields.io/npm/dm/@jadonamite/fundxagon-sdk)](https://www.npmjs.com/package/@jadonamite/fundxagon-sdk)
+[![npm version](https://img.shields.io/npm/v/@jadonamite/fundxagon-sdk.svg)](https://www.npmjs.com/package/@jadonamite/fundxagon-sdk)
 [![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](https://www.typescriptlang.org/)
 
 > Production-ready TypeScript SDK for FundX — decentralized fundraising powered by the Stacks blockchain.
@@ -10,7 +11,7 @@
 This SDK requires the `@fundxgrid/stacks-core` utility package.
 
 ```bash
-npm install @fundxagon/sdk @fundxgrid/stacks-core
+npm install @jadonamite/fundxagon-sdk @jadonamite/stacks-core
 ```
 
 ## 🚀 Quick Start
@@ -18,7 +19,7 @@ npm install @fundxagon/sdk @fundxgrid/stacks-core
 Initialize the client with your desired network configuration to begin interacting with FundX smart contracts.
 
 ```typescript
-import { FundXClient } from '@fundxagon/sdk';
+import { FundXClient } from '@jadonamite/fundxagon-sdk';
 
 // Initialize the client on testnet
 const client = new FundXClient({ network: 'testnet' });
