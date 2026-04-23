@@ -1,4 +1,4 @@
-import { StacksClient } from '@fundxgrid/stacks-core';
+import { StacksClient } from '@jadonamite/stacks-core';
 import { FundXConfig } from './types';
 import { CampaignModule } from './modules/campaigns';
 import { InvestorModule } from './modules/investors';

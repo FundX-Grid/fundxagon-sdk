@@ -1,4 +1,4 @@
-# @fundxagon/sdk
+# @jadonamite/fundxagon-sdk
 
 [![npm downloads](https://img.shields.io/npm/dm/@jadonamite/fundxagon-sdk)](https://www.npmjs.com/package/@jadonamite/fundxagon-sdk)
 [![npm version](https://img.shields.io/npm/v/@jadonamite/fundxagon-sdk.svg)](https://www.npmjs.com/package/@jadonamite/fundxagon-sdk)
@@ -8,7 +8,7 @@
 
 ## 📦 Installation
 
-This SDK requires the `@fundxgrid/stacks-core` utility package.
+This SDK requires the `@jadonamite/stacks-core` utility package.
 
 ```bash
 npm install @jadonamite/fundxagon-sdk @jadonamite/stacks-core

@@ -1,4 +1,4 @@
-import { StacksClient } from '@fundxgrid/stacks-core';
+import { StacksClient } from '@jadonamite/stacks-core';
 import { Investor } from '../types';
 
 export class InvestorModule {

@@ -1,4 +1,4 @@
-import { StacksClient } from '@fundxgrid/stacks-core';
+import { StacksClient } from '@jadonamite/stacks-core';
 import { Campaign } from '../types';
 
 export class CampaignModule {
